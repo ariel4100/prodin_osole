@@ -1,0 +1,30 @@
+.icon-active i{
+	 background-color: #2DC5EE;
+	 border-radius: 5%;
+	 border: 2px solid #2DC5EE;
+	 padding: 50px 40px 45px 50px;
+	 font-size: 50px;
+	 color: #ffffff;
+}
+
+.icon-desactive i{
+	 background-color: #A3A3A3;
+	 border-radius: 5%;
+	 border: 2px solid #E3E3E3;
+	 padding: 50px;
+	 font-size: 50px;
+	 color: #ffffff;
+}
+
+.titulo-presupuesto{
+	color: #DDDDDD;
+	font-size: 17px;
+	margin-top: 15px;
+}
+
+.titulo-presupuesto-active{
+	color: #232E8B !important;
+	font-size: 17px;
+	font-family: 'Lato Bold';
+	margin-top: 15px;
+}

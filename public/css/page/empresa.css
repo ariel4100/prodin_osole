@@ -1,0 +1,26 @@
+#descripcion-empresa p, #descripcion-empresa{
+	font-family: 'Lato';
+	font-size: 18px;
+	line-height: 180%;
+	margin-top: 10px;
+}
+
+#image-empresa{
+	height: 380px;
+	overflow: hidden;
+}
+
+#titulos-empresa{
+	background: #FAFAFA;
+	height: 292px;
+	line-height: 200%;
+	font-size: 23px;
+	font-family: 'Lato Italic';
+	color: #009688;
+}
+
+.icon-empresa i{
+	font-size: 35px;
+	color: #B0B0B0;
+	margin-top: 5px;
+}
